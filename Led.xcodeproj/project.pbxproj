@@ -21,6 +21,8 @@
 		33019D6919758BB400CF8C30 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33019D4B19758BB300CF8C30 /* UIKit.framework */; };
 		33019D7119758BB400CF8C30 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 33019D6F19758BB400CF8C30 /* InfoPlist.strings */; };
 		33019D7319758BB400CF8C30 /* LedTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 33019D7219758BB400CF8C30 /* LedTests.m */; };
+		33019D7E19758CA600CF8C30 /* grey.png in Resources */ = {isa = PBXBuildFile; fileRef = 33019D7C19758CA600CF8C30 /* grey.png */; };
+		33019D7F19758CA600CF8C30 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = 33019D7D19758CA600CF8C30 /* red.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		33019D6E19758BB400CF8C30 /* LedTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LedTests-Info.plist"; sourceTree = "<group>"; };
 		33019D7019758BB400CF8C30 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		33019D7219758BB400CF8C30 /* LedTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LedTests.m; sourceTree = "<group>"; };
+		33019D7C19758CA600CF8C30 /* grey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grey.png; sourceTree = "<group>"; };
+		33019D7D19758CA600CF8C30 /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = red.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +117,8 @@
 			isa = PBXGroup;
 			children = (
 				33019D5619758BB300CF8C30 /* AppDelegate.h */,
+				33019D7C19758CA600CF8C30 /* grey.png */,
+				33019D7D19758CA600CF8C30 /* red.png */,
 				33019D5719758BB300CF8C30 /* AppDelegate.m */,
 				33019D5919758BB300CF8C30 /* Main.storyboard */,
 				33019D5C19758BB300CF8C30 /* ViewController.h */,
@@ -230,6 +236,8 @@
 			files = (
 				33019D6019758BB300CF8C30 /* Images.xcassets in Resources */,
 				33019D5219758BB300CF8C30 /* InfoPlist.strings in Resources */,
+				33019D7E19758CA600CF8C30 /* grey.png in Resources */,
+				33019D7F19758CA600CF8C30 /* red.png in Resources */,
 				33019D5B19758BB300CF8C30 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
