@@ -25,17 +25,9 @@
     count = 1,t = 0;
     
     [self makeArray];
-
+    self->textF.delegate = self;
 }
 
-- (BOOL) textFieldShouldReturn:(UITextField *)textField
-{
-    if([textField isFirstResponder])
-        [textField resignFirstResponder];
-    
-    return YES;
-    
-}
 
 -(void) makeArray
 {
@@ -76,7 +68,7 @@
 
 
 - (IBAction)okTap:(id)sender {
-    textF.text = @"01234567890 qwertyuiopasdfghjklzxcvbnm";
+    //textF.text = @"01234567890 qwertyuiopasdfghjklzxcvbnm";
     
     len = textF.text.length;
     positionLen = 0;
@@ -1364,5 +1356,13 @@
 
 }
 
+- (BOOL) textFieldShouldReturn:(UITextField *)textField
+{
+    if([textField isFirstResponder])
+        [textField resignFirstResponder];
+    
+    return YES;
+    
+}
 
 @end

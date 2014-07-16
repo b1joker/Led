@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9DDE326C-E4A3-4CA4-847E-CB0DECD10DBD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Led</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7D1B194A-70EC-40CE-A2EB-A365D39E3C2A</key>
+		<string>https://github.com/b1joker/Led.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Led.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7D1B194A-70EC-40CE-A2EB-A365D39E3C2A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/b1joker/Led.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7D1B194A-70EC-40CE-A2EB-A365D39E3C2A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D1B194A-70EC-40CE-A2EB-A365D39E3C2A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Led</string>
+		</dict>
+	</array>
+</dict>
+</plist>
